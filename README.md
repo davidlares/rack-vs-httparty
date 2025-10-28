@@ -1,19 +1,20 @@
-## davidRack
+## Rack vs HTTparty
 
- Modulo web desarrollado con Rack-WebServer para ejemplificar el consumo de una API con la gema HTTParty de Ruby
+Web module developed with Rack-WebServer to demonstrate API consumption with the HTTParty Ruby gem.
 
 ## Build Setup
 
 ``` bash
-# instala las dependencias dependencies
+# install dependencies
 gem install bundler
 bundle install
 
-# Correr servidor
+# Run server
 rackup config.ru
 ```
-## Créditos
-[David E Lares S](https://davidlares.com)
 
-## Licencia
+## Credits
+[David Lares S](https://davidlares.com)
+
+## License
 [MIT](https://opensource.org/licenses/MIT)
